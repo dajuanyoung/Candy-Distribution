@@ -21,3 +21,4 @@ This Power BI Report builds on my existing knowledge of the tool, spending time 
 * Calculated columns and explicit measures created
 
 * Visuals such as cards, matrices, graphs and slicers incorporated  in report view
+https://github.com/dajuanyoung/Candy-Distribution/blob/main/US%20Candy%20Distributor.pdf
